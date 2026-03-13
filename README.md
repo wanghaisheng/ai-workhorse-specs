@@ -1,6 +1,8 @@
 # ai-workhorse-role-based-specs
 if AI can do anything,then this repo should die
 
+A  workhorse  is someone who works very hard and steady, focused on the job. It usually refers to physical work, but sometimes can refer to office workers who never seem to take a break
+but ai workhorse can 7*24 if got enough token
 
 
 传统意义上 职位落实到某个人身上就成了岗位 一个萝卜一个坑 每个人的岗位趋向于固定，随着项目管理的演化，不同岗位的人在不同的项目里，随着需要的技能不同，扮演的角色会有变化，于是人是活的，岗位是死的，角色是活的，技能是活的。就像演员是个岗位，但在不同的戏里扮演的角色是不同的，要求的特质技能不同
